@@ -21,7 +21,7 @@
 	height: 114px;
 	text-align: center;
 	padding: 80px 0 0 0;
-	background: url(/home/amoore/web.archive.org/web/20220407120127im_/http://paulsmonitors.com/images/templatemo_header.jpg) no-repeat top left;
+	background: url(https://paulsmonitors.github.io/site/20220407120127im_/http://paulsmonitors.com/images/templatemo_header.jpg) no-repeat top left;
 }
 
 #social_box {
@@ -30,7 +30,7 @@
 	height: 48px;
 	padding: 16px 0px 16px 50px;
 	margin-bottom: 20px;
-	background: url(/home/amoore/web.archive.org/web/20220407120127im_/http://paulsmonitors.com/images/templatemo_social_box.jpg) no-repeat;
+	background: url(https://paulsmonitors.github.io/site/20220407120127im_/http://paulsmonitors.com/images/templatemo_social_box.jpg) no-repeat;
 }
 
 #social_box li {
@@ -50,7 +50,7 @@
 #content { 
 	height: 455px;
 	width: 600px;
-	background: url(/home/amoore/web.archive.org/web/20220407120127im_/http://paulsmonitors.com/images/templatemo_content.jpg) no-repeat;
+	background: url(https://paulsmonitors.github.io/site/20220407120127im_/http://paulsmonitors.com/images/templatemo_content.jpg) no-repeat;
 }
 
 .scroll {
@@ -97,31 +97,31 @@ ul.navigation a {
 
 ul.navigation a .ui_icon { position: absolute; top: 0; left: 15px; width: 40px; height: 40px; }
 
-ul.navigation a .home { background: url(/home/amoore/web.archive.org/web/20220407120127im_/http://paulsmonitors.com/images/templatemo_home.png) no-repeat; }
-ul.navigation a .aboutus { background: url(/home/amoore/web.archive.org/web/20220407120127im_/http://paulsmonitors.com/images/templatemo_aboutus.png) no-repeat; }
-ul.navigation a .services { background: url(/home/amoore/web.archive.org/web/20220407120127im_/http://paulsmonitors.com/images/templatemo_services.png)  no-repeat; }
-ul.navigation a .gallery { background:  url(/home/amoore/web.archive.org/web/20220407120127im_/http://paulsmonitors.com/images/templatemo_portfolio.png) no-repeat; }
-ul.navigation a .contactus { background:  url(/home/amoore/web.archive.org/web/20220407120127im_/http://paulsmonitors.com/images/templatemo_contact.png) no-repeat; }
+ul.navigation a .home { background: url(https://paulsmonitors.github.io/site/20220407120127im_/http://paulsmonitors.com/images/templatemo_home.png) no-repeat; }
+ul.navigation a .aboutus { background: url(https://paulsmonitors.github.io/site/20220407120127im_/http://paulsmonitors.com/images/templatemo_aboutus.png) no-repeat; }
+ul.navigation a .services { background: url(https://paulsmonitors.github.io/site/20220407120127im_/http://paulsmonitors.com/images/templatemo_services.png)  no-repeat; }
+ul.navigation a .gallery { background:  url(https://paulsmonitors.github.io/site/20220407120127im_/http://paulsmonitors.com/images/templatemo_portfolio.png) no-repeat; }
+ul.navigation a .contactus { background:  url(https://paulsmonitors.github.io/site/20220407120127im_/http://paulsmonitors.com/images/templatemo_contact.png) no-repeat; }
 
 ul.navigation a:hover, ul.navigation a.selected {
 	color: #201f1b;
-	background: url(/home/amoore/web.archive.org/web/20220407120127im_/http://paulsmonitors.com/images/templatemo_menu_hover.png) no-repeat left;
+	background: url(https://paulsmonitors.github.io/site/20220407120127im_/http://paulsmonitors.com/images/templatemo_menu_hover.png) no-repeat left;
 }
 
 ul.navigation a:hover .home, ul.navigation a.selected .home {
-	background: url(/home/amoore/web.archive.org/web/20220407120127im_/http://paulsmonitors.com/images/templatemo_home_hover.png) no-repeat;
+	background: url(https://paulsmonitors.github.io/site/20220407120127im_/http://paulsmonitors.com/images/templatemo_home_hover.png) no-repeat;
 }
 ul.navigation a:hover .aboutus, ul.navigation a.selected .aboutus {
-	background: url(/home/amoore/web.archive.org/web/20220407120127im_/http://paulsmonitors.com/images/templatemo_aboutus_hover.png) no-repeat;
+	background: url(https://paulsmonitors.github.io/site/20220407120127im_/http://paulsmonitors.com/images/templatemo_aboutus_hover.png) no-repeat;
 }
 ul.navigation a:hover .services, ul.navigation a.selected .services {
-	background: url(/home/amoore/web.archive.org/web/20220407120127im_/http://paulsmonitors.com/images/templatemo_services_hover.png) no-repeat;
+	background: url(https://paulsmonitors.github.io/site/20220407120127im_/http://paulsmonitors.com/images/templatemo_services_hover.png) no-repeat;
 }
 ul.navigation a:hover .gallery, ul.navigation a.selected .gallery {
-	background: url(/home/amoore/web.archive.org/web/20220407120127im_/http://paulsmonitors.com/images/templatemo_portfolio_hover.png) no-repeat;
+	background: url(https://paulsmonitors.github.io/site/20220407120127im_/http://paulsmonitors.com/images/templatemo_portfolio_hover.png) no-repeat;
 }
 ul.navigation a:hover .contactus, ul.navigation a.selected .contactus {
-	background: url(/home/amoore/web.archive.org/web/20220407120127im_/http://paulsmonitors.com/images/templatemo_contact_hover.png) no-repeat;
+	background: url(https://paulsmonitors.github.io/site/20220407120127im_/http://paulsmonitors.com/images/templatemo_contact_hover.png) no-repeat;
 }
 
 ul.navigation a:focus {
